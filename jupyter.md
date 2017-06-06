@@ -10,6 +10,9 @@ source ~/.bashrc
 # Once you have done that, you can verify your install by making use of the conda command, for example with list:
 
 conda list
+# to run Jupyter 
+
+jupyter notebook
 
 # this is to add a desktop app for the jupyter to run it easily 
 
